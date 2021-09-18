@@ -10,6 +10,6 @@
 
 ### 🛠️ Main Repositories
 * [TIL](https://github.com/devholic22/TIL#readme) : 하루 하루 배우거나 느낀 것들을 정리해두는 레포지토리입니다.
-
+* [LINE](https://github.com/devholic22/line_clone) : 노마드코더의 코코아 클론 강의를 바탕으로 혼자 해보는 라인 (LINE) 클론 레포지토리입니다.
 ### 📞 contact me 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hyunjoon.tech@gmail.com)
