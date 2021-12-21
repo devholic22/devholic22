@@ -5,8 +5,6 @@
 
 [![Hyunjoon Choi's github stats](https://github-readme-stats.vercel.app/api?username=devholic22&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devholic22)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🛠️ Main Repositories
 * [TIL](https://github.com/devholic22/TIL#readme) : 하루 하루 배우거나 느낀 것들을 정리해두는 레포지토리입니다.
 * [LINE](https://github.com/devholic22/line_clone) : <a href="https://nomadcoders.co/kokoa-clone">노마드코더의 코코아 클론 강의</a>를 바탕으로 혼자 해보는 라인 (LINE) 클론 레포지토리입니다.
