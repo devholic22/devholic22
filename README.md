@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevholic22%2F&count_bg=%2379C83D&title_bg=%235E5D49&icon=hipchat.svg&icon_color=%23E5B149&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### 🖐️ Hello, guys!
 안녕하세요, 항상 더 나은 코드를 고민하는 최현준입니다! 
 
