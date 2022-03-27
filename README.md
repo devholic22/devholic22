@@ -4,7 +4,7 @@
 [![Hyunjoon Choi's github stats](https://github-readme-stats.vercel.app/api?username=devholic22&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic22)](https://solved.ac/devholic22/)
 ### 🛠️ Main Repositories
-* [boilerplate](https://github.com/devholic22/node_boilerplate) : node.js를 기반으로 한 보일러 플ㄹㅔ이트 프로젝트입니다
+* [boilerplate](https://github.com/devholic22/node_boilerplate) : node.js를 기반으로 한 보일러 플레이트 프로젝트입니다
 * [LINE](https://github.com/devholic22/line_clone) : <a href="https://nomadcoders.co/kokoa-clone">노마드코더의 코코아 클론 강의</a>를 바탕으로 혼자 해보는 라인 (LINE) 클론 레포지토리입니다.
 * [Youtube](https://github.com/devholic22/wetube_clone) : <a href="https://nomadcoders.co/wetube">노마드코더의 유튜브 클론 강의</a>를 실습한 레포지토리입니다.
 ### 📞 contact me 
