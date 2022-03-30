@@ -3,7 +3,7 @@
 <div>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=devholic22&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width: 420px;"/>
-<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic22" style="width: 420px; height: 150px;"/>
+<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic22" style="width: 420px; height: 180px;"/>
 
 </div>
 <img src = "https://activity-graph.herokuapp.com/graph?username=devholic22&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true" >
