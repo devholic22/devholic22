@@ -2,11 +2,11 @@
 안녕하세요, 항상 더 나은 코드를 고민하는 최현준입니다! 
 <div>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=devholic22&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width:500px; height: 200px;"/>
-<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic22" style="width: 500px; height: 200px;"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=devholic22&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width:300px;"/>
+<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic22" style="width: 300px;"/>
 
 </div>
-<img src = "https://activity-graph.herokuapp.com/graph?username=devholic22&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true" style="width: 1000px;">
+<img src = "https://activity-graph.herokuapp.com/graph?username=devholic22&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true" >
 
 ### 🛠️ Main Repositories
 * [boilerplate](https://github.com/devholic22/node_boilerplate) : node.js를 기반으로 한 보일러 플레이트 프로젝트입니다
