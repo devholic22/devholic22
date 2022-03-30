@@ -2,8 +2,8 @@
 안녕하세요, 항상 더 나은 코드를 고민하는 최현준입니다! 
 <div>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=devholic22&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width: 400px;"/>
-<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic22" style="width: 400px;"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=devholic22&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width: 410px;"/>
+<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic22" style="width: 410px;"/>
 
 </div>
 <img src = "https://activity-graph.herokuapp.com/graph?username=devholic22&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true" >
