@@ -3,10 +3,10 @@
 <div>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=devholic22&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width: 420px;"/>
-<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic22" style="width: 420px; height: 165px;"/>
+<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_holic23" style="width: 420px; height: 165px;"/>
 
 </div>
-<img src = "https://activity-graph.herokuapp.com/graph?username=dev_holic23&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true" >
+<img src = "https://activity-graph.herokuapp.com/graph?username=devholic22&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true" >
 
 ### 🛠️ Main Repositories
 * [boilerplate](https://github.com/devholic22/node_boilerplate) : node.js를 기반으로 한 보일러 플레이트 프로젝트입니다
