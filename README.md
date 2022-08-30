@@ -1,16 +1,43 @@
-### 🖐️ Hello, guys!
-안녕하세요, 항상 더 나은 코드를 고민하는 최현준입니다! 
-<div>
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=devholic22&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  
+  ### Hello there 👋
+  
+  ---
+ <a href="https://www.instagram.com/hyunjoon.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:hyunjoon.tech@gmail.com">
+ <img src="https://img.shields.io/badge/gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyunjoon.tech@gmail.com"/></a>
+<a href="https://devholic23.tistory.com/">
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+</a>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=devholic22&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width: 420px;"/>
-<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_holic23" style="width: 420px; height: 165px;"/>
-
+  <br>
+ 
 </div>
-<img src = "https://activity-graph.herokuapp.com/graph?username=devholic22&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true" >
+<br>
+<br>
 
-### 🛠️ Main Repositories
-* [boilerplate](https://github.com/devholic22/node_boilerplate) : node.js를 기반으로 한 보일러 플레이트 프로젝트입니다
-* [LINE](https://github.com/devholic22/line_clone) : <a href="https://nomadcoders.co/kokoa-clone">노마드코더의 코코아 클론 강의</a>를 바탕으로 혼자 해보는 라인 (LINE) 클론 레포지토리입니다.
-* [Youtube](https://github.com/devholic22/wetube_clone) : <a href="https://nomadcoders.co/wetube">노마드코더의 유튜브 클론 강의</a>를 실습한 레포지토리입니다.
-### 📞 contact me 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hyunjoon.tech@gmail.com)
+* * *
+
+<div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devholic22&layout=compact"/>
+<h3>🛠 Main Stacks 🛠</h3>
+<div>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+</div>
+<div>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white">
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=Intellij%20IDEA&logoColor=white"> 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+</div>
+</div>
