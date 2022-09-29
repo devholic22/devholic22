@@ -8,10 +8,9 @@
  <a href="https://www.instagram.com/hyunjoon.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:hyunjoon.tech@gmail.com">
  <img src="https://img.shields.io/badge/gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyunjoon.tech@gmail.com"/></a>
-<a href="https://devholic23.tistory.com/">
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+<a href="https://devholic22.oopy.io/">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="height: 20px;"> 
 </a>
-
   <br>
  
 </div>
