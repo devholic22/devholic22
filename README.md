@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="height: 20px;"> 
 </a>
   <br>
- 
 </div>
 <br>
 <br>
@@ -40,3 +39,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 </div>
+
+* * *
+## BaekJoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_holic22)](https://solved.ac/dev_holic22/)
