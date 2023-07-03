@@ -58,7 +58,7 @@ Junior Backend developer
    <th><b>My Project</b></th>
    <td>
     <a href="https://github.com/devholic22/numble_insta"><b>🥉 [Numble] 인스타그램 API 구현</b></a><br/>
-    <a href="https://github.com/GrowthonbyStarting/1-headFirst-Back-End"><b>🧑🏻‍💻 [Growthon] 이력서 피드백 서비스 구현</b></a><br/>
+    <a href="https://github.com/GrowthonbyStarting/1-headFirst-Back-End"><b>🥇 [Growthon] 이력서 피드백 서비스 구현</b></a><br/>
    </td>
   </tr>
  <tbody>
