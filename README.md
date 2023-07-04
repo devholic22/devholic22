@@ -1,6 +1,7 @@
 ## Hi there 👋
 #### 최현준 Hyunjoon Choi
 Junior Backend developer
+
 ## History 🕓
 * **Myongi university** - Computer engineering
   * Feb 2019 ~
@@ -9,8 +10,9 @@ Junior Backend developer
 * **Likelion 10th** - Node.js backend developer
   * Mar 2022 ~ Dec 2022
 * **UMC 4th** - Spring backend developer
-  * Mar 2023 ~ 
-## Tech stacks/tools (main) 🏁
+  * Mar 2023 ~
+
+## Tech stack 🧑🏻‍💻
 <table style="border: 0px" width="130">
  <tbody>
   <tr>
@@ -72,7 +74,10 @@ Junior Backend developer
  <tbody>
 </table>
 
-## Contact 📞
+## Solved.ac 🔥
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic_24)](https://solved.ac/devholic_24/)
+
+## Contact 🤙
 * Gmail: hyunjoon.tech@gmail.com
 * Instagram: [hyunjoon.dev](https://www.instagram.com/hyunjoon.dev/)
 * Velog: [devholic22](https://velog.io/@devholic22)
