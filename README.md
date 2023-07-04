@@ -30,6 +30,14 @@ Junior Backend developer
    </td>
   </tr>
   <tr>
+  <tr>
+   <th><b>AWS</b></th>
+   <td>
+    <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> &nbsp
+   </td>
+  <tr/>
    <th><b>Community</b></th>
    <td>
     <img src="https://img.shields.io/badge/LIKELION 🦁-FFA348?style=flat-square&logo=LIKELION&logoColor=white"/>
@@ -39,7 +47,7 @@ Junior Backend developer
   <tr>
    <th><b>Language</b></th>
    <td>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Java ☕️-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> &nbsp
