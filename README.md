@@ -76,6 +76,7 @@ Junior Backend developer
 
 ## Solved.ac 🔥
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic_24)](https://solved.ac/devholic_24/)
+<img src="http://mazandi.herokuapp.com/api?handle=devholic_24&theme=warm"/>
 
 ## Contact 🤙
 * Gmail: hyunjoon.tech@gmail.com
