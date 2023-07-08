@@ -2,6 +2,8 @@
 #### 최현준 Hyunjoon Choi
 Junior Backend developer
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devholic22)](https://github.com/devholic22/github-readme-stats)
+
 ## History 🕓
 * **Myongi university** - Computer engineering
   * Feb 2019 ~
