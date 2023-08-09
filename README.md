@@ -28,4 +28,4 @@ Junior Backend developer
 ## Contact 🤙
 * Gmail: hyunjoon.tech@gmail.com
 * Instagram: [hyunjoon.dev](https://www.instagram.com/hyunjoon.dev/)
-* Velog: [devholic22](https://velog.io/@devholic22)
+* Velog: [devholic22](https://velog.io/@devholic)
