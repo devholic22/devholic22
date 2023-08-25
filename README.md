@@ -21,11 +21,9 @@ Junior Backend developer
 <li><a href="https://github.com/GitFollowerBot/GitFollowerServer"><b>👀 [GitFollower] 깃허브 팔로우/언팔로우 이벤트 감지 서비스</b></a></li>
 </ul>
 
-## Solved.ac 🔥
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic_24)](https://solved.ac/devholic_24/)
-<img src="http://mazandi.herokuapp.com/api?handle=devholic_24&theme=warm"/>
-
 ## Contact 🤙
 * Gmail: hyunjoon.tech@gmail.com
 * Instagram: [hyunjoon.dev](https://www.instagram.com/hyunjoon.dev/)
 * Velog: [devholic22](https://velog.io/@devholic)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devholic&tag=내도메인.한국)](https://github.com/eungyeole/velog-readme-stats)
