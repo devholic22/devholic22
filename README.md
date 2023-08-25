@@ -26,4 +26,4 @@ Junior Backend developer
 * Instagram: [hyunjoon.dev](https://www.instagram.com/hyunjoon.dev/)
 * Velog: [devholic22](https://velog.io/@devholic)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devholic&tag=내도메인.한국)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devholic&tag=내도메인.한국)](https://velog.io/@devholic/Infra-Spring-EB-Github-Actions-Docker-ACM%EC%9D%84-%ED%86%B5%ED%95%9C-CICD-%EC%9E%90%EB%8F%99%ED%99%94-%EB%B0%8F-https-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95-feat.-%EB%82%B4%EB%8F%84%EB%A9%94%EC%9D%B8-%ED%95%9C%EA%B5%AD-3%ED%8E%B8)
