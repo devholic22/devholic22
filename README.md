@@ -21,9 +21,5 @@ Junior Backend developer
 <li><a href="https://github.com/GitFollowerBot/GitFollowerServer"><b>👀 [GitFollower] 깃허브 팔로우/언팔로우 이벤트 감지 서비스</b></a></li>
 </ul>
 
-## Contact 🤙
-* Gmail: hyunjoon.tech@gmail.com
-* Instagram: [hyunjoon.dev](https://www.instagram.com/devholic22/)
-* Velog: [devholic22](https://velog.io/@devholic)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devwriter&postId=10)](https://github.com/loosie/github-readme-tistory-card)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devholic&tag=내도메인.한국)](https://velog.io/@devholic/Infra-Spring-EB-Github-Actions-Docker-ACM%EC%9D%84-%ED%86%B5%ED%95%9C-CICD-%EC%9E%90%EB%8F%99%ED%99%94-%EB%B0%8F-https-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95-feat.-%EB%82%B4%EB%8F%84%EB%A9%94%EC%9D%B8-%ED%95%9C%EA%B5%AD-3%ED%8E%B8)
