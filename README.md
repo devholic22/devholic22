@@ -2,7 +2,8 @@
 
 ## ✨ 기술 팁
 * [[Spring REST Docs] 어렵게만 느껴졌던 REST Docs를 적용해보자! (1)](https://devwriter.tistory.com/28)
-
+* [[Spring MVC] 회원 식별을 해 보자! (1) - 쿠키 적용 방법 🍪](https://devwriter.tistory.com/29)
+ 
 ## 💣 문제 해결
 * [[JUnit] @Test에서 일반적인 인자를 사용할 때 왜 ParameterResolutionException이 발생할까?](https://devwriter.tistory.com/10)
 * [[Spring Data JPA] 스프링 데이터 JPA 구현체를 작성할 때 주의할 점! (feat. 순환 참조)](https://devwriter.tistory.com/24)
