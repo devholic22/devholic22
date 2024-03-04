@@ -2,6 +2,7 @@
 
 ## ✨ 기술 팁
 * [[Spring REST Docs] 어렵게만 느껴졌던 REST Docs를 적용해보자! (1)](https://devwriter.tistory.com/28)
+* [[Spring REST Docs] 어렵게만 느껴졌던 REST Docs를 적용해보자! (2)](https://devwriter.tistory.com/32)
 * [[Spring MVC] 회원 식별을 해 보자! (1) - 쿠키 적용 방법 🍪](https://devwriter.tistory.com/29)
 * [[Spring MVC] 회원 식별을 해 보자! (2) - 세션 적용 방법 📦](https://devwriter.tistory.com/30)
  
