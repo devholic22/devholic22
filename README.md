@@ -7,7 +7,7 @@
 * [[Spring MVC] 회원 식별을 해 보자! (2) - 세션 적용 방법 📦](https://devwriter.tistory.com/30)
  
 ## 💣 문제 해결
-* [[JUnit] @Test에서 일반적인 인자를 사용할 때 왜 ParameterResolutionException이 발생할까?](https://devwriter.tistory.com/10)
+* [[JUnit] @Test에서 인자를 사용할 때 왜 ParameterResolutionException이 발생할까?](https://devwriter.tistory.com/10)
 * [[Spring Data JPA] 스프링 데이터 JPA 구현체를 작성할 때 주의할 점! (feat. 순환 참조)](https://devwriter.tistory.com/24)
 * [[Spring MVC] DTO를 사용하여 파라미터로 전달받을 때는 @RequestBody를 꼭 적용하자!](https://devwriter.tistory.com/25)
 
