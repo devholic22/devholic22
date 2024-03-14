@@ -10,6 +10,7 @@
 * [[JUnit] @Test에서 인자를 사용할 때 왜 ParameterResolutionException이 발생할까?](https://devwriter.tistory.com/10)
 * [[Spring Data JPA] 스프링 데이터 JPA 구현체를 작성할 때 주의할 점! (feat. 순환 참조)](https://devwriter.tistory.com/24)
 * [[Spring MVC] DTO를 사용하여 파라미터로 전달받을 때는 @RequestBody를 꼭 적용하자!](https://devwriter.tistory.com/25)
+* [[Spring, JPA] @DataJpaTest와 No qualifying bean of type '...' available: expected at least 1 bean which qualifies as autowired 오류의 상관관계](https://devwriter.tistory.com/36)
 
 ## 🤔 (기술적) 고민 기록
 * [getter와 setter는 어디에 두는 게 좋을까?](https://devwriter.tistory.com/17)
