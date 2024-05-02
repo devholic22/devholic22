@@ -10,6 +10,7 @@
 * [[Spring REST Docs] 어렵게만 느껴졌던 REST Docs를 적용해보자! (2)](https://devwriter.tistory.com/32)
 * [[Spring MVC] 회원 식별을 해 보자! (1) - 쿠키 적용 방법 🍪](https://devwriter.tistory.com/29)
 * [[Spring MVC] 회원 식별을 해 보자! (2) - 세션 적용 방법 📦](https://devwriter.tistory.com/30)
+* [[Spring AI] Spring AI를 적용해보자!](https://devwriter.tistory.com/39)
  
 ## 💣 문제 해결
 * [[JUnit] @Test에서 인자를 사용할 때 왜 ParameterResolutionException이 발생할까?](https://devwriter.tistory.com/10)
