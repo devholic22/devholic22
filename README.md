@@ -4,7 +4,7 @@
 * Computer Engineering, Myongji University (Nature Camp) (2019.03 - 2025.02)
 * Likelion at Myongji Univ Server 7th (2019.02 - 2019.12), 10th (2022.02 - 2022.12)
 * University MakeUs Challenge 5th Spring Server (2023.03 - 2023.08)
-* F-Lab Spring Server (2024.06 - 2024.09)
+* F-Lab Java Backend (2024.06 - 2024.09)
 ## ✨ 기술 팁
 * [[Spring REST Docs ✍️] 어렵게만 느껴졌던 REST Docs를 적용해보자! (1)](https://devwriter.tistory.com/28)
 * [[Spring REST Docs ✍️] 어렵게만 느껴졌던 REST Docs를 적용해보자! (2)](https://devwriter.tistory.com/32)
