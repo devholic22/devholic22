@@ -11,6 +11,7 @@
 * [[Spring MVC 🌐] 회원 식별을 해 보자! (1) - 쿠키 적용 방법 🍪](https://devwriter.tistory.com/29)
 * [[Spring MVC 🌐] 회원 식별을 해 보자! (2) - 세션 적용 방법 📦](https://devwriter.tistory.com/30)
 * [[Spring AI 🤖] Spring AI를 적용해보자!](https://devwriter.tistory.com/39)
+* [[Github] Github의 Issue와 PR (Pull Request) 알아보기 (PR 병합 후 이슈가 자동으로 닫히게 하려면?)](https://devwriter.tistory.com/42)
  
 ## 💣 문제 해결
 * [[JUnit] @Test에서 인자를 사용할 때 왜 ParameterResolutionException이 발생할까?](https://devwriter.tistory.com/10)
