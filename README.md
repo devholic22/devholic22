@@ -23,3 +23,6 @@
 ## 🤔 (기술적) 고민 기록
 * [getter와 setter는 어디에 두는 게 좋을까?](https://devwriter.tistory.com/17)
 * [[Spring] Repository의 반환 타입으로는 어떤 것을 써야 할까? (Entity vs void)](https://devwriter.tistory.com/27)
+
+## 세미나 후기
+* [[세미나] 240516 실용주의 기술 블로그 글쓰기 devocean 후기](https://devwriter.tistory.com/43)
