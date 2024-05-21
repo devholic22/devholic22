@@ -1,10 +1,11 @@
 [![devwriter1215](http://mazassumnida.wtf/api/v2/generate_badge?boj=devwriter1215)](https://solved.ac/devwriter1215)
 
 ## 🎓 Education & Experience
-* Computer Engineering, Myongji University (Nature Camp) (2019.03 - 2025.02)
+* 명지대학교 컴퓨터공학과 (2019.03 - 2025.02)
 * Likelion at Myongji Univ Server 7th (2019.02 - 2019.12), 10th (2022.02 - 2022.12)
 * University MakeUs Challenge 5th Spring Server (2023.03 - 2023.08)
-* F-Lab Java Backend (2024.06 - 2024.09)
+* F-Lab Java Backend (2024.06 - 2024.10)
+
 ## ✨ 기술 팁
 * [[Spring REST Docs ✍️] 어렵게만 느껴졌던 REST Docs를 적용해보자! (1)](https://devwriter.tistory.com/28)
 * [[Spring REST Docs ✍️] 어렵게만 느껴졌던 REST Docs를 적용해보자! (2)](https://devwriter.tistory.com/32)
@@ -24,5 +25,8 @@
 * [getter와 setter는 어디에 두는 게 좋을까?](https://devwriter.tistory.com/17)
 * [[Spring] Repository의 반환 타입으로는 어떤 것을 써야 할까? (Entity vs void)](https://devwriter.tistory.com/27)
 
-## 세미나 후기
+## 🔎 세미나 후기
 * [[세미나] 240516 실용주의 기술 블로그 글쓰기 devocean 후기](https://devwriter.tistory.com/43)
+
+## 📚 IT 도서 공부
+* [[서평 #1] 자바 잘 읽는 법 서평](https://devwriter.tistory.com/41)
