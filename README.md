@@ -30,3 +30,6 @@
 
 ## 📚 IT 도서 공부
 * [[서평 #1] 자바 잘 읽는 법 서평](https://devwriter.tistory.com/41)
+
+## 🛠️ OpenSource contribute
+* [Spring AI - ImageResponse 주석 추가 및 IndexOutOfBounds 예외 해결](https://github.com/spring-projects/spring-ai/pull/745)
