@@ -32,4 +32,5 @@
 * [[서평 #1] 자바 잘 읽는 법 서평](https://devwriter.tistory.com/41)
 
 ## 🛠️ OpenSource contribute
+* [Spring Data JPA - `application-context.xml`, `QueryUtils.java` 오타 수정](https://github.com/spring-projects/spring-data-jpa/pull/3327)
 * [Spring AI - ImageResponse 주석 추가 및 IndexOutOfBounds 예외 해결](https://github.com/spring-projects/spring-ai/pull/745)
