@@ -15,6 +15,12 @@
 * [[Github] Github의 Issue와 PR (Pull Request) 알아보기 (PR 병합 후 이슈가 자동으로 닫히게 하려면?)](https://devwriter.tistory.com/42)
  
 ## 💣 문제 해결
+### 오픈 소스 문제 해결
+* [Spring kafka - README.md 문서 링크 오타 수정](https://github.com/spring-projects/spring-kafka/pull/3007)
+* [Spring Data JPA - `application-context.xml`, `QueryUtils.java` 오타 수정](https://github.com/spring-projects/spring-data-jpa/pull/3327)
+* [Spring AI - ImageResponse 주석 추가 및 IndexOutOfBounds 예외 해결](https://github.com/spring-projects/spring-ai/pull/745)
+
+### 개인적 문제 해결
 * [[JUnit] @Test에서 인자를 사용할 때 왜 ParameterResolutionException이 발생할까?](https://devwriter.tistory.com/10)
 * [[Spring Data JPA] 스프링 데이터 JPA 구현체를 작성할 때 주의할 점! (feat. 순환 참조)](https://devwriter.tistory.com/24)
 * [[Spring MVC] DTO를 사용하여 파라미터로 전달받을 때는 @RequestBody를 꼭 적용하자!](https://devwriter.tistory.com/25)
@@ -30,8 +36,3 @@
 
 ## 📚 IT 도서 공부
 * [[서평 #1] 자바 잘 읽는 법 서평](https://devwriter.tistory.com/41)
-
-## 🛠️ OpenSource contribute
-* [Spring kafka - README.md 문서 링크 오타 수정](https://github.com/spring-projects/spring-kafka/pull/3007)
-* [Spring Data JPA - `application-context.xml`, `QueryUtils.java` 오타 수정](https://github.com/spring-projects/spring-data-jpa/pull/3327)
-* [Spring AI - ImageResponse 주석 추가 및 IndexOutOfBounds 예외 해결](https://github.com/spring-projects/spring-ai/pull/745)
