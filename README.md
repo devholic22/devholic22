@@ -12,7 +12,7 @@
 * [[Spring REST Docs ✍️] 어렵게만 느껴졌던 REST Docs를 적용해보자! (2)](https://devwriter.tistory.com/32)
 * [[Spring MVC 🌐] 회원 식별을 해 보자! (1) - 쿠키 적용 방법 🍪](https://devwriter.tistory.com/29)
 * [[Spring MVC 🌐] 회원 식별을 해 보자! (2) - 세션 적용 방법 📦](https://devwriter.tistory.com/30)
-* [[Spring AI 🤖] Spring AI를 적용해보자! (누적 조회수 1,000 이상 ⭐️)](https://devwriter.tistory.com/39)
+* [[Spring AI 🤖] Spring AI를 적용해보자! (누적 조회수 1,100 이상, 구글 검색 최상단 ⭐️)](https://devwriter.tistory.com/39)
 * [[Github] Github의 Issue와 PR (Pull Request) 알아보기 (PR 병합 후 이슈가 자동으로 닫히게 하려면?)](https://devwriter.tistory.com/42)
 * [[Spring AI 🤖] Spring AI 변경점 이슈 알아보기 (24.05.22 Issue)](https://devwriter.tistory.com/44)
  
