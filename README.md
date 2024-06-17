@@ -26,8 +26,9 @@
 * [getter와 setter는 어디에 두는 게 좋을까?](https://devwriter.tistory.com/17)
 * [[Spring] Repository의 반환 타입으로는 어떤 것을 써야 할까? (Entity vs void)](https://devwriter.tistory.com/27)
 
-### 세미나 후기
+### 세미나
 * [[세미나] 240516 실용주의 기술 블로그 글쓰기 devocean 후기](https://devwriter.tistory.com/43)
+* [[세미나] LLM을 프로덕션에 적용하며 배운 것들 (당근 ML 밋업)](https://devwriter.tistory.com/46)
 
 ### IT 도서 공부
 * [[서평 #1] 자바 잘 읽는 법 서평](https://devwriter.tistory.com/41)
