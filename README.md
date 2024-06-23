@@ -15,6 +15,7 @@
 * [[Spring AI 🤖] Spring AI를 적용해보자! (누적 조회수 1,100 이상, 구글 검색 최상단 ⭐️)](https://devwriter.tistory.com/39)
 * [[Github] Github의 Issue와 PR (Pull Request) 알아보기 (PR 병합 후 이슈가 자동으로 닫히게 하려면?)](https://devwriter.tistory.com/42)
 * [[Spring AI 🤖] Spring AI 변경점 이슈 알아보기 (24.05.22 Issue)](https://devwriter.tistory.com/44)
+* [[Spring AI 🤖] Spring AI에서 프롬프트를 더욱 효과적으로 작성하는 방법 (feat. PromptTemplate)](https://devwriter.tistory.com/47)
  
 ### 문제 해결
 * [[JUnit] @Test에서 인자를 사용할 때 왜 ParameterResolutionException이 발생할까?](https://devwriter.tistory.com/10)
