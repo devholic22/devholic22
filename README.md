@@ -8,7 +8,7 @@
 - Spring AI의 예외 문제를 방지하고 설명을 덧붙이는 등 [개발 생태계에 기여](https://github.com/spring-projects/spring-ai/pull/745)하고 있습니다.
 
 ### Recent posts / Star posts
-* [[Spring AI 🤖] Spring AI를 적용해보자! (누적 조회수 1,100 이상, 구글 검색 최상단 ⭐️)](https://devwriter.tistory.com/39)
+* [[Spring AI 🤖] Spring AI를 적용해보자! (누적 조회수 1,700 이상, 구글 검색 최상단 ⭐️)](https://devwriter.tistory.com/39)
 * [[Spring AI 🤖] Spring AI 변경점 이슈 알아보기 (24.05.22 Issue)](https://devwriter.tistory.com/44)
 * [[Spring AI 🤖] Spring AI에서 프롬프트를 더욱 효과적으로 작성하는 방법 (feat. PromptTemplate)](https://devwriter.tistory.com/47)
 * [[세미나] 240516 실용주의 기술 블로그 글쓰기 devocean 후기](https://devwriter.tistory.com/43)
