@@ -10,8 +10,9 @@
 ### 🌱 Spring AI Contribute history
 * [Add comments and prevent IndexOutOfBounds in ImageResponse](https://github.com/spring-projects/spring-ai/pull/745)
 * [Add comment in OpenAiImageModel and modify RetryTemplate access level in OpenAiChatModel](https://github.com/spring-projects/spring-ai/pull/756)
-* [Fix OpenAiChatModel NPE](https://github.com/spring-projects/spring-ai/pull/975)
+* [Add comment in OpenAiAudioSpeechModel and remove duplicated comment in OpenAiAudioSpeechOptions](https://github.com/spring-projects/spring-ai/pull/932)
 * [Add comment in MessageType for readability](https://github.com/spring-projects/spring-ai/pull/973)
+* [Fix OpenAiChatModel NPE](https://github.com/spring-projects/spring-ai/pull/975)
 
 ### ✍️ Recent posts / Star posts
 * [[Spring AI 🤖] Spring AI를 적용해보자! (누적 조회수 1,700 이상, 구글 검색 최상단 ⭐️)](https://devwriter.tistory.com/39)
