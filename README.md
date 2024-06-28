@@ -7,18 +7,24 @@
 - [우아한테크코스의 프리코스](https://devwriter.tistory.com/category/%F0%9F%9A%80%20%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4%206%EA%B8%B0%20%EC%A7%80%EC%9B%90%20%EA%B8%B0%EB%A1%9D) 지원 등 객체지향적 사고를 기를 수 있는 연습을 하고 있습니다.
 - Spring AI의 예외 문제를 방지하고 설명을 덧붙이는 등 [개발 생태계에 기여](https://github.com/spring-projects/spring-ai/pull/745)하고 있습니다.
 
-### Recent posts / Star posts
+### 🌱 Spring AI Contribute history
+* [Add comments and prevent IndexOutOfBounds in ImageResponse](https://github.com/spring-projects/spring-ai/pull/745)
+* [Add comment in OpenAiImageModel and modify RetryTemplate access level in OpenAiChatModel](https://github.com/spring-projects/spring-ai/pull/756)
+* [Fix OpenAiChatModel NPE](https://github.com/spring-projects/spring-ai/pull/975)
+* [Add comment in MessageType for readability](https://github.com/spring-projects/spring-ai/pull/973)
+
+### ✍️ Recent posts / Star posts
 * [[Spring AI 🤖] Spring AI를 적용해보자! (누적 조회수 1,700 이상, 구글 검색 최상단 ⭐️)](https://devwriter.tistory.com/39)
 * [[Spring AI 🤖] Spring AI 변경점 이슈 알아보기 (24.05.22 Issue)](https://devwriter.tistory.com/44)
 * [[Spring AI 🤖] Spring AI에서 프롬프트를 더욱 효과적으로 작성하는 방법 (feat. PromptTemplate)](https://devwriter.tistory.com/47)
 * [[세미나] 240516 실용주의 기술 블로그 글쓰기 devocean 후기](https://devwriter.tistory.com/43)
 * [[세미나] LLM을 프로덕션에 적용하며 배운 것들 (당근 ML 밋업)](https://devwriter.tistory.com/46)
 
-### Education & Experience
+### 🎓 Education & Experience
 * 명지대학교 컴퓨터공학과 (2019.03 - 2025.02)
 * Likelion at Myongji Univ Server 7th (2019.02 - 2019.12), 10th (2022.02 - 2022.12)
 * University MakeUs Challenge 5th Spring Server (2023.03 - 2023.08)
 * F-Lab Java Backend (2024.06 - 2024.10)
 
-### Awards
+### 🏆 Awards
 * PCCP (코딩전문역량인증) Lv2 (24.04.14 ~ 26.04.14)
