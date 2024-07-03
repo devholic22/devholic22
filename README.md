@@ -11,7 +11,7 @@
 * [Add comments and prevent IndexOutOfBounds in ImageResponse](https://github.com/spring-projects/spring-ai/pull/745)
 * [Add comment in OpenAiImageModel and modify RetryTemplate access level in OpenAiChatModel](https://github.com/spring-projects/spring-ai/pull/756)
 * [Add comment in OpenAiAudioSpeechModel and remove duplicated comment in OpenAiAudioSpeechOptions](https://github.com/spring-projects/spring-ai/pull/932)
-* [Add comment in MessageType for readability](https://github.com/spring-projects/spring-ai/pull/973)
+* [Add comment in MessageType for readability](https://github.com/spring-projects/spring-ai/pull/1000)
 * [Fix OpenAiChatModel NPE](https://github.com/spring-projects/spring-ai/pull/975)
 
 ### ✍️ Recent posts / Star posts
