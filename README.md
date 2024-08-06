@@ -7,6 +7,10 @@
 - [우아한테크코스의 프리코스](https://devwriter.tistory.com/category/%F0%9F%9A%80%20%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4%206%EA%B8%B0%20%EC%A7%80%EC%9B%90%20%EA%B8%B0%EB%A1%9D) 지원 등 객체지향적 사고를 기를 수 있는 연습을 하고 있습니다.
 - [Spring AI](https://docs.spring.io/spring-ai/reference/)의 예외 문제를 방지하고 설명을 덧붙이는 등 개발 생태계에 기여하고 있습니다.
 
+### 🚀 Projects
+* [ATWOZ](https://github.com/sosow0212/atwoz): 연애고사 기반의 소개팅 서비스입니다.
+* [EatToFit](https://github.com/f-lab-edu/EatToFit): 먹은 음식에 대한 칼로리를 분석한 뒤, 사용자의 정보를 취합하여 해당 음식 칼로리를 소모할 수 있는 운동 플랜을 추천해주는 서비스입니다.
+
 ### 🌱 Spring AI Contribute history
 * [Add comments and prevent IndexOutOfBounds in ImageResponse](https://github.com/spring-projects/spring-ai/pull/745)
 * [Add comment in OpenAiImageModel and modify RetryTemplate access level in OpenAiChatModel](https://github.com/spring-projects/spring-ai/pull/756)
