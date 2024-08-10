@@ -19,9 +19,7 @@
 * [Fix OpenAiChatModel NPE](https://github.com/spring-projects/spring-ai/pull/975)
 
 ### ✍️ Recent posts / Star posts
-* [[ATWOZ] FCM 알림 기능 개발 기록기 (1) - FCM 도입 이유와 아키텍처 구조](https://devwriter.tistory.com/49)
-* [[ATWOZ] FCM 알림 기능 개발 기록기 (2) - FCM 토큰 관리 방법 및 스프링 코드 설명](https://devwriter.tistory.com/50)
-* [[ATWOZ] FCM 알림 기능 개발 기록기 (3) - 안드로이드 에뮬레이터로 알림 검증하기](https://devwriter.tistory.com/51)
+* [[EatToFit] API 설계 과정에서의 고민](https://devwriter.tistory.com/53)
 * [[Spring AI 🤖] Spring AI를 적용해보자! (누적 조회수 2,500 이상, 구글 검색 최상단 ⭐️)](https://devwriter.tistory.com/39)
 * [[Spring AI 🤖] Spring AI 변경점 이슈 알아보기 (24.05.22 Issue)](https://devwriter.tistory.com/44)
 * [[Spring AI 🤖] Spring AI에서 프롬프트를 더욱 효과적으로 작성하는 방법 (feat. PromptTemplate)](https://devwriter.tistory.com/47)
