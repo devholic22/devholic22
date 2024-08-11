@@ -9,7 +9,7 @@
 
 ### 🚀 Projects
 * [ATWOZ](https://github.com/sosow0212/atwoz): 연애고사 기반의 소개팅 서비스입니다.
-* [EatToFit](https://github.com/f-lab-edu/EatToFit): 먹은 음식에 대한 칼로리를 분석한 뒤, 사용자의 정보를 취합하여 해당 음식 칼로리를 소모할 수 있는 운동 플랜을 추천해주는 서비스입니다.
+* [EatToFit](https://github.com/f-lab-edu/EatToFit): 먹은 음식에 대한 칼로리를 분석한 뒤, 사용자의 정보를 취합하여 해당 음식 칼로리를 소모할 수 있는 운동 플랜을 추천해주는 서비스입니다. 기존에 진행했던 [muckGYMma](https://github.com/MJUZzang/muckGYMma) 프로젝트를 고도화 하고 있습니다.
 
 ### 🌱 Spring AI Contribute history
 * [Add comments and prevent IndexOutOfBounds in ImageResponse](https://github.com/spring-projects/spring-ai/pull/745)
