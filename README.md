@@ -1,5 +1,3 @@
-[![devholic1010](http://mazassumnida.wtf/api/v2/generate_badge?boj=devholic1010)](https://solved.ac/devholic1010)
-
 ## 원리를 탐구하는 개발자 최현준입니다.
 - 새로운 개념을 학습할 때 빠른 학습을 위해 공식 문서와 기술 채널의 유튜브를 참고하여 학습합니다.
 - [꾸준한 블로그 작성](https://devwriter.tistory.com)으로 다른 사람들이 같은 문제를 겪지 않도록 일조합니다.
