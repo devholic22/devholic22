@@ -18,8 +18,8 @@
 * [Fix OpenAiChatModel NPE](https://github.com/spring-projects/spring-ai/pull/975)
 
 ### ✍️ Recent posts / Star posts
+* [[EatToFit] 매개변수가 매우 많을 때에는 도메인 생성 로직을 어떻게 작성해야 할까? (feat. 빌더 패턴, DDD)](https://devwriter.tistory.com/59)
 * [[Spring AI 🤖] 이미지를 분석하고 JSON 포맷팅을 해보자! (feat. EatToFit)](https://devwriter.tistory.com/57)
-* [[EatToFit] DB 설계 과정에서의 고민](https://devwriter.tistory.com/56)
 * [[Spring AI 🤖] Spring AI를 적용해보자! (누적 조회수 2,500 이상, 구글 검색 최상단 ⭐️)](https://devwriter.tistory.com/39)
 * [[Spring AI 🤖] Spring AI 변경점 이슈 알아보기 (24.05.22 Issue)](https://devwriter.tistory.com/44)
 
