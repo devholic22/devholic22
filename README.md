@@ -1,6 +1,6 @@
 ## 물류 도메인의 문제를 안정적인 시스템으로 해결하는 백엔드 개발자 최현준입니다.
 
-현재 acrossB에서 자사 물류 관리 플랫폼과 글로벌 WMS 간 주문·재고·입출고 연계 시스템을 개발하고 운영합니다.
+현재 [acrossB](https://www.acrossb.net)에서 자사 물류 관리 플랫폼과 글로벌 WMS 간 주문·재고·입출고 연계 시스템을 개발하고 운영합니다.
 Kotlin/Spring Boot와 TypeScript/Nest.js를 주력으로 사용하며, 운영 지표와 도메인 맥락을 바탕으로 고객의 문제를 해결하는 데 집중하고 있습니다.
 
 - [Resume](https://github.com/user-attachments/files/32677410/_.pdf)
@@ -10,7 +10,7 @@ Kotlin/Spring Boot와 TypeScript/Nest.js를 주력으로 사용하며, 운영 �
 
 ### 💼 Current Work
 
-**Software Engineer, acrossB** · 2024.11 - 현재
+**Software Engineer, [acrossB](https://www.acrossb.net)** · 2024.11 - 현재
 
 - 일평균 약 30만 건 규모의 WMS API·Webhook 연계 시스템 개발 및 운영
 - 외부 WMS API 연동 안정화, 데이터 정합성 개선, 운영 자동화 및 비동기 이벤트 기반 연계 개발
