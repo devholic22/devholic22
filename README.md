@@ -10,7 +10,7 @@ Kotlin/Spring Boot와 TypeScript/Nest.js를 주력으로 사용하며, 운영 �
 
 ### 💼 Current Work
 
-**Backend Developer, acrossB** · 2024.11 - 현재
+**Software Engineer, acrossB** · 2024.11 - 현재
 
 - 일평균 약 30만 건 규모의 WMS API·Webhook 연계 시스템 개발 및 운영
 - 외부 WMS API 연동 안정화, 데이터 정합성 개선, 운영 자동화 및 비동기 이벤트 기반 연계 개발
