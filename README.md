@@ -1,4 +1,6 @@
 ## 원리를 탐구하는 개발자 최현준입니다.
+- [Resume](https://github.com/user-attachments/files/32677410/_.pdf)
+- [Portfolio](https://github.com/user-attachments/files/32677413/_.pdf)
 - [Spring AI](https://docs.spring.io/spring-ai/reference/), [Node.js](https://github.com/nodejs/node) 등 개발 생태계에 기여하고 있습니다.
 
 ### 🌱 Spring Contribute history
@@ -13,7 +15,7 @@
 * [test_runner: remove failure attribute in junit_report testcase element](https://github.com/nodejs/node/pull/59685)
 
 ### 💼 Career
-* Full-stack developer, AcrossB (2024.11 ~ )
+* Full-stack developer, acrossB (2024.11 ~ )
 
 ### 🎓 Education & Experience
 * 명지대학교 컴퓨터공학과 (2019.03 - 2025.02)
