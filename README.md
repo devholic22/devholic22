@@ -3,8 +3,8 @@
 현재 [acrossB](https://www.acrossb.net)에서 자사 물류 관리 플랫폼과 글로벌 WMS 간 주문·재고·입출고 연계 시스템을 개발하고 운영합니다.
 Kotlin/Spring Boot와 TypeScript/Nest.js를 주력으로 사용하며, 운영 지표와 도메인 맥락을 바탕으로 고객의 문제를 해결하는 데 집중하고 있습니다.
 
-- [Resume](https://github.com/user-attachments/files/32677410/_.pdf)
-- [Portfolio](https://github.com/user-attachments/files/32677413/_.pdf)
+- [Resume](https://github.com/user-attachments/files/33047931/_.pdf)
+- [Portfolio](https://github.com/user-attachments/files/33047946/_.pdf)
 - [Blog](https://devwriter.tistory.com)
 - [LinkedIn](https://www.linkedin.com/in/hyunjoon-choi)
 
